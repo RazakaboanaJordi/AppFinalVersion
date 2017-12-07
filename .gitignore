@@ -33,3 +33,6 @@ $RECYCLE.BIN/
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
+src/assets/i18n/fr.json
+src/assets/i18n/fr.json
+src/pages/tutorial/tutorial.html
