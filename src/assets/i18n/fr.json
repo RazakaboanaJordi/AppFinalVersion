@@ -17,7 +17,6 @@
   "TUTORIAL_SLIDE2_TITLE": "Quel est le but de cette application ?",
   "TUTORIAL_SLIDE2_DESCRIPTION": "Vous permettre d'uploader et de partager autour du thème de la sécurité routière.",
 
-
   "TUTORIAL_SLIDE3_TITLE": "Avez-vous attaché votre ceinture ?",
   "TUTORIAL_SLIDE3_DESCRIPTION": "TOUS TOUCHÉS - TOUS CONCERNÉS - TOUS RESPONSABLES",
 
@@ -32,10 +31,10 @@
   "WELCOME_TITLE": "Bienvenue",
 
   "LOGIN_TITLE": "Connexion",
-  "LOGIN_ERROR": "Connexion impossible. Veuillez vérifier les informations de votre compte et réessayer.",
+  "LOGIN_ERROR": "Bonjour !",
   "LOGIN_BUTTON": "Connexion",
   "SIGNUP_TITLE": "Inscription",
-  "SIGNUP_ERROR": "Inscription impossible. Veuillez vérifier les informations de votre compte et réessayer.",
+  "SIGNUP_ERROR": "Vous êtes bien inscrit !",
   "SIGNUP_BUTTON": "Inscription",
 
   "LIST_MASTER_TITLE": "Items",
