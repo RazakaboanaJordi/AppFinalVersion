@@ -18,19 +18,7 @@ export class Items {
       {
         "name": "Alcool",
         "profilePic": "assets/img/speakers/1.jpg",
-        "about": "Désormais c’est 0,2 g d'alcool par litre de sang
-Désormais, le taux d’alcool autorisé est 0,2 g/l pour tous les permis probatoires. La réglementation s’applique à tous les jeunes conducteurs pendant : 
-
-3 ans après l’obtention du permis, la perte de 12 points ou l'annulation de son permis
- 2 ans si le permis a été obtenu dans le cadre de la conduite accompagnée.
-0.2 g/l, c'est zéro verre d'alcool car dès le 1er verre, ce seuil peut être dépassé.
-
-Quelles sont les sanctions ?
-Les jeunes conducteurs contrôlés avec un taux d’alcoolémie supérieur ou égal à 0,2 g/l encourent : 
-
-un retrait de 6 points sur leur permis.
-une amende forfaitaire de 135 €.
-une immobilisation du véhicule."
+        "about": "Désormais c’est 0,2 g d'alcool par litre de sang Désormais, le taux d’alcool autorisé est 0,2 g/l pour tous les permis probatoires. La réglementation s’applique à tous les jeunes conducteurs pendant : 3 ans après l’obtention du permis, la perte de 12 points ou l'annulation de son permis 2 ans si le permis a été obtenu dans le cadre de la conduite accompagnée. 0.2 g/l, c'est zéro verre d'alcool car dès le 1er verre, ce seuil peut être dépassé. Quelles sont les sanctions ? Les jeunes conducteurs contrôlés avec un taux d’alcoolémie supérieur ou égal à 0,2 g/l encourent : un retrait de 6 points sur leur permis.une amende forfaitaire de 135 €. une immobilisation du véhicule."
       },
       {
         "name": "Charlie Cheetah",
