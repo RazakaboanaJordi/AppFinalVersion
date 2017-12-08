@@ -45,6 +45,8 @@
 
   "ITEM_CREATE_TITLE": "Nouvel item",
   "ITEM_CREATE_CHOOSE_IMAGE": "Ajouter une image",
+  "ITEM_NAME_PLACEHOLDER" : "Nom de l'image",
+  "ITEM_ABOUT_PLACEHOLDER" : "Description",
 
   "CARDS_TITLE": "Social",
 
