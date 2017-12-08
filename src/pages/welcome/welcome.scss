@@ -2,7 +2,7 @@ page-welcome {
   .splash-bg {
     position: relative;
     background: url('../assets/img/Visuel-securite-routiere_02.jpg') no-repeat transparent;
-    background-size: cover;
+    background-size: contain;
     height: 45%;
     z-index: 1;
     background-repeat: repeat-x;
@@ -22,7 +22,6 @@ page-welcome {
   }
   .splash-logo {
     margin: auto;
-    background: url('../assets/img/LOGO_Marianne_cle0b4b4b.gif') repeat transparent;
     background-size: 100%;
     width: 128px;
     height: 128px;

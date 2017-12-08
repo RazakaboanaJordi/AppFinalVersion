@@ -20,6 +20,9 @@
   "TUTORIAL_SLIDE3_TITLE": "Avez-vous attaché votre ceinture ?",
   "TUTORIAL_SLIDE3_DESCRIPTION": "TOUS TOUCHÉS - TOUS CONCERNÉS - TOUS RESPONSABLES",
 
+  "TUTORIAL_SLIDE4_TITLE" : "Allons y !",
+  "TUTORIAL_CONTINUE_BUTTON" : "Démarrer",
+
   "SETTINGS_TITLE": "Paramètres",
   "SETTINGS_OPTION1": "Option 1",
   "SETTINGS_OPTION2": "Option 2",
@@ -29,6 +32,7 @@
   "SETTINGS_PAGE_PROFILE": "Modifier le profil",
 
   "WELCOME_TITLE": "Bienvenue",
+  "WELCOME_INTRO" : "Première étape : s'incrire ou se connecter. Et avec la voiture, c'est la ceinture !",
 
   "LOGIN_TITLE": "Connexion",
   "LOGIN_ERROR": "Bonjour !",
