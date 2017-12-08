@@ -41,11 +41,11 @@
   "SIGNUP_ERROR": "Vous êtes bien inscrit !",
   "SIGNUP_BUTTON": "Inscription",
 
-  "LIST_MASTER_TITLE": "Items",
+  "LIST_MASTER_TITLE": "Flux de publication",
 
-  "ITEM_CREATE_TITLE": "Nouvel item",
+  "ITEM_CREATE_TITLE": "Nouvelle publication",
   "ITEM_CREATE_CHOOSE_IMAGE": "Ajouter une image",
-  "ITEM_NAME_PLACEHOLDER" : "Nom de l'image",
+  "ITEM_NAME_PLACEHOLDER" : "Titre de la publication",
   "ITEM_ABOUT_PLACEHOLDER" : "Description",
 
   "CARDS_TITLE": "Social",
